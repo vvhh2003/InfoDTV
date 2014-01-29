@@ -22,6 +22,6 @@ eternity 4
 
 ZeroC ICE 
 
-Decktec API 
+DekTec API 
 
 
