@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="358" key="DIALOG_WIDTH"/>
+		<item value="255" key="DIALOG_Y_ORIGIN"/>
+		<item value="965" key="DIALOG_X_ORIGIN"/>
+		<item value="447" key="DIALOG_HEIGHT"/>
+		<item value="1|Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="BuildDefaultScenarioObject" key="selection"/>
+		<list key="findhistory">
+			<item value="BuildDefaultScenarioObject"/>
+			<item value="PrintAll"/>
+			<item value="ProductTargetBitStream"/>
+			<item value="PSI_ProductTargetStatus TmpStatus=PS_PSI_ITEM;"/>
+			<item value="eax == "/>
+			<item value="eax == 0x01"/>
+			<item value="TS_DataBuffer_Length"/>
+			<item value="#ifndef DEKTECTSBROADCASTTHREAD_H_"/>
+		</list>
+		<list key="replacehistory">
+			<item value="GCO-&gt;"/>
+			<item value="DynamicICEBufferReciver"/>
+			<item value="DynICEBufferReciver"/>
+			<item value="DynamicBufferTransfer"/>
+			<item value=""/>
+			<item value="DynamicFileDataProvider"/>
+		</list>
+	</section>
+</section>

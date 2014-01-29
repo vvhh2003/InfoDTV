@@ -1,0 +1,15 @@
+#Mon Mar 23 16:00:55 CST 2009
+pathvariable.DynamicFileProviderICE=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/DataProviders/Dynamic.File.Provider.ICE
+pathvariable.DataProviders=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/DataProviders
+pathvariable.XMLBINProcessor=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/XMLBINProcessor
+pathvariable.RapidXML=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/RapidXML
+pathvariable.InfoDTVDynamicBuilder=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/InfoDTVDynamicBuilder
+version=1
+pathvariable.PSITimeProvider=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/DataProviders/PSITime.Provider
+pathvariable.Multiplexer=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/Multiplexer
+pathvariable.DynamicProviderICE=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/DataProviders/Dynamic.Provider.ICE
+pathvariable.Interface=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/Interface
+eclipse.preferences.version=1
+pathvariable.Common=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/Common
+pathvariable.SPTSFileDataProvider=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/DataProviders/SPTSFileDataProvider
+pathvariable.eternity4=/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/eternity4

@@ -1,0 +1,16 @@
+2009-3-18
+InfoDTVMuxServer 添加自动播出缺省配置的功能 DefaultDBName DefaultBitRate
+InfoDTVPSIDynamic 添加文件找不到的保护
+
+cd /InfoDTVPSIDynamic/Channel-1-bin/
+/InfoDTVPSIDynamic/Channel-1-bin/InfoDTVPSIDynamic
+
+PSIDynamic-Channel-1
+/InfoDTVMuxServer/PSIDefineFile/Channel-1-EIT.XML
+/InfoDTVMuxServer/PSIValueFile/Channel-1-EIT-VALUE.XML
+
+
+
+PSIDynamic-Channel-2
+/InfoDTVMuxServer/PSIDefineFile/Channel-2-EIT.XML
+/InfoDTVMuxServer/PSIValueFile/Channel-2-EIT-VALUE.XML

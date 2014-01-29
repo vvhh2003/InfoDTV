@@ -1,0 +1,66 @@
+<NITTable>
+	<HEAD>
+		<PID TYPE="INT" VALUE="4095"/>
+		<TABLE_ID TYPE="INT" VALUE="255"/>
+		<TABLE_EXT_ID TYPE="INT" VALUE="65535"/>
+		<VERSION_NUMBER TYPE="INT" VALUE="31"/>
+		<IS_MPEG2 TYPE="INT" VALUE="1"/>
+	</HEAD>
+	<Reserved1 TYPE="INT" VALUE="15"/>
+	<NIT_Descriptors>
+		<network_name_descriptor>
+			<descriptor_tag/>
+			<network_name_description TYPE="CHAR">SimpleText</network_name_description>
+		</network_name_descriptor>
+		<multilingual_network_name_descriptor>
+			<descriptor_tag/>
+			<MNNDATAS>
+				<MNNDATA>
+					<ISO_639_language_code TYPE="INT" VALUE="16777215"/>
+					<network_name TYPE="CHAR">SimpleText</network_name>
+				</MNNDATA>
+			</MNNDATAS>
+		</multilingual_network_name_descriptor>
+		<linkage_descriptor>
+			<descriptor_tag/>
+			<descriptor>
+				<transport_stream_id TYPE="INT" VALUE="65535"/>
+				<original_network_id TYPE="INT" VALUE="65535"/>
+				<service_id TYPE="INT" VALUE="65535"/>
+				<linkage_type TYPE="INT" VALUE="255"/>
+				<private_data_byte TYPE="CHAR">SimpleText</private_data_byte>
+			</descriptor>
+		</linkage_descriptor>
+	</NIT_Descriptors>
+	<Reserved2 TYPE="INT" VALUE="15"/>
+	<NITDATAS>
+		<NITDATA>
+			<transport_stream_id TYPE="INT" VALUE="65535"/>
+			<original_network_id TYPE="INT" VALUE="65535"/>
+			<Reserved3 TYPE="INT" VALUE="15"/>
+			<TS_Descripters>
+				<cable_delivery_system_descriptor>
+					<descriptor_tag/>
+					<descriptor>
+						<frequency TYPE="INT" VALUE="4294967295"/>
+						<DescriptorReserved1 TYPE="INT" VALUE="4095"/>
+						<FEC_outer TYPE="INT" VALUE="15"/>
+						<modulation TYPE="INT" VALUE="255"/>
+						<symbol_rate TYPE="INT" VALUE="268435455"/>
+						<FEC_inner TYPE="INT" VALUE="15"/>
+					</descriptor>
+				</cable_delivery_system_descriptor>
+				<service_list_descriptor>
+					<descriptor_tag/>
+					<SERVICEDATAS>
+						<SERVICEDATA>
+							<service_id TYPE="INT" VALUE="65535"/>
+							<service_type TYPE="INT" VALUE="255"/>
+						</SERVICEDATA>
+					</SERVICEDATAS>
+				</service_list_descriptor>
+			</TS_Descripters>
+		</NITDATA>
+	</NITDATAS>
+</NITTable>
+

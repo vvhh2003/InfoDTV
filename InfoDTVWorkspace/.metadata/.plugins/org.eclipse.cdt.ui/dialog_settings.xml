@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="false" key="org.eclipse.cdt.ui.formatter_page.show_invisible_characters"/>
+	<item value="1" key="org.eclipse.cdt.uiformatter_page.line_wrapping_tab_page.last_category_index"/>
+	<item value="897" key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_height"/>
+	<item value="0" key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_x"/>
+	<item value="true" key="org.eclipse.cdt.ui.codeformatter.create_profile_dialog.open_edit"/>
+	<item value="25" key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_y"/>
+	<item value="99" key="org.eclipse.cdt.uiformatter_page.white_space.java_view.inner"/>
+	<item value="180" key="org.eclipse.cdt.ui.codeformatter.line_wrapping_tab_page.preview_line_width"/>
+	<item value="-1" key="formatter_page.modify_dialog_tab_page.last_focus_index"/>
+	<item value="false" key="org.eclipse.cdt.uiformatter_page.white_space_tab_page.view"/>
+	<item value="0" key="org.eclipse.cdt.uiformatter_page.white_space_tab_page.node"/>
+	<item value="0" key="org.eclipse.cdt.uiformatter_pagemodify_dialog.last_focus"/>
+	<item value="15" key="org.eclipse.cdt.uiformatter_page.white_space.java_view.option"/>
+	<item value="/home/victor/workdisk" key="org.eclipse.cdt.ui.codeformatter.savepath.savepath"/>
+	<item value="1400" key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_width"/>
+	<item value="Default C++ source template" key="LastUsedSourceTemplate"/>
+	<item value="Default C++ header template" key="LastUsedHeaderTemplate"/>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="PDOMSearchPage">
+		<item value="227191" key="searchFlags"/>
+		<item value="false" key="caseSensitive"/>
+		<list key="previousPatterns">
+			<item value="BuildDefaultScenarioObject"/>
+		</list>
+	</section>
+	<section name="CRenameRefactoringInputPage">
+		<item value="false" key="macroDefinition"/>
+		<item value="4" key="scope"/>
+		<item value="false" key="comment"/>
+		<item value="false" key="references_inv"/>
+		<item value="" key="workingset"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansion">
+	</section>
+</section>

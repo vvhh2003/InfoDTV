@@ -1,0 +1,9 @@
+# Log file created/rotated Tuesday, 13 Jan 09 17:30:56 GMT
+2009-01-13 17:30:56.4 [7171]:SimpleTSFileDataProviderFactory:I:正在建立SimpleTSFileDataProvider
+2009-01-13 17:32:29.6 [7171]:SimpleTSFileDataProviderFactory:I:<MEM>已释放
+2009-01-13 17:50:19.7 [7712]:SimpleTSFileDataProviderFactory:I:正在建立SimpleTSFileDataProvider
+2009-01-13 17:54:30.6 [7712]:SimpleTSFileDataProviderFactory:I:<MEM>已释放
+2009-01-14 13:50:10.5 [8307]:SimpleTSFileDataProviderFactory:I:正在建立SimpleTSFileDataProvider
+2009-01-14 13:53:06.6 [8307]:SimpleTSFileDataProviderFactory:I:<MEM>已释放
+2009-01-14 13:58:07.3 [8381]:SimpleTSFileDataProviderFactory:I:正在建立SimpleTSFileDataProvider
+2009-01-14 13:59:47.0 [8381]:SimpleTSFileDataProviderFactory:I:<MEM>已释放

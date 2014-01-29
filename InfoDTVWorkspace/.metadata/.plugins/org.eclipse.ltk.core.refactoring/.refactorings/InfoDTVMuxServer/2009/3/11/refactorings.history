@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;InfoDTVMuxServer/Common/ClobalConfig.hpp&apos; to &apos;GlobalConfig.hpp&apos;" description="Rename resource &apos;ClobalConfig.hpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Common/ClobalConfig.hpp" name="GlobalConfig.hpp" stamp="1236662808357" updateReferences="true"/>
+</session>

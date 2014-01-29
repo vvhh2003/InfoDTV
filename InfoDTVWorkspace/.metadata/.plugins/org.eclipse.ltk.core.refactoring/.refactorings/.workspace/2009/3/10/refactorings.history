@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;InfoDTVPSIDynamic/Multiplexer&apos;" deleteContents="false" description="Delete resource &apos;InfoDTVPSIDynamic/Multiplexer&apos;" element1="/InfoDTVPSIDynamic/Multiplexer" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1235958555912"/>&#x0A;<refactoring comment="Delete resource &apos;InfoDTVPSIDynamic/Main/InfoDTVPSIDynamic.h&apos;" deleteContents="false" description="Delete resource &apos;InfoDTVPSIDynamic/Main/InfoDTVPSIDynamic.h&apos;" element1="/InfoDTVPSIDynamic/Main/InfoDTVPSIDynamic.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1236088329070"/>
+</session>

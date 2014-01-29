@@ -1,0 +1,64 @@
+# Log file created/rotated Saturday, 17 Jan 09 17:07:36 GMT
+2009-01-17 17:07:36.8 [17685]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-17 17:07:36.8 [17685]:DynamicIPDataProvier:I:Active！
+2009-01-17 17:09:30.1 [17685]:DynamicIPDataProvier:I:开始重新配置！：
+<archive version="4.0" sub="VV">
+<ChannelName>TT2</ChannelName>
+<ChannelIPPort>10007</ChannelIPPort>
+<ChannelIP>192.168.123.135</ChannelIP>
+</archive>
+
+2009-01-17 17:09:30.1 [17685]:DynamicIPDataProvier:I:DeActive！
+2009-01-17 17:09:30.1 [17685]:DynamicIPDataProvier:I:Active！
+2009-01-17 17:12:32.5 [17685]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-17 17:18:02.2 [17783]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-17 17:18:02.2 [17783]:DynamicIPDataProvier:I:Active！
+2009-01-17 17:18:31.9 [17783]:DynamicIPDataProvier:I:开始重新配置！：
+<archive version="4.0" sub="VV">
+<ChannelName>TT2</ChannelName>
+<ChannelIPPort>10008</ChannelIPPort>
+<ChannelIP>192.168.123.135</ChannelIP>
+</archive>
+
+2009-01-17 17:18:31.9 [17783]:DynamicIPDataProvier:I:DeActive！
+2009-01-17 17:18:31.9 [17783]:DynamicIPDataProvier:I:Active！
+2009-01-17 17:19:33.3 [17783]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-17 17:24:30.7 [17912]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-17 17:24:30.7 [17912]:DynamicIPDataProvier:I:Active！
+2009-01-17 17:24:45.6 [17912]:DynamicIPDataProvier:I:开始重新配置！：
+<archive version="4.0" sub="VV">
+<ChannelName>TT2</ChannelName>
+<ChannelIPPort>10008</ChannelIPPort>
+<ChannelIP>192.168.123.135</ChannelIP>
+</archive>
+
+2009-01-17 17:24:45.6 [17912]:DynamicIPDataProvier:I:DeActive！
+2009-01-17 17:24:45.6 [17912]:DynamicIPDataProvier:I:Active！
+2009-01-17 17:25:09.5 [17912]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-18 14:58:17.5 [5774]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-18 14:58:17.7 [5774]:DynamicIPDataProvier:I:Active！
+2009-01-18 15:00:59.9 [5774]:DynamicIPDataProvier:I:开始重新配置！：
+<archive version="4.0" sub="VV">
+<ChannelName>TT2</ChannelName>
+<ChannelIPPort>10008</ChannelIPPort>
+<ChannelIP>127.0.0.1</ChannelIP>
+</archive>
+
+2009-01-18 15:00:59.9 [5774]:DynamicIPDataProvier:I:DeActive！
+2009-01-18 15:01:00.0 [5774]:DynamicIPDataProvier:I:Active！
+2009-01-18 15:01:44.7 [5774]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-18 15:04:50.5 [6059]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-18 15:04:50.6 [6059]:DynamicIPDataProvier:I:Active！
+2009-01-18 15:06:39.0 [6059]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-18 15:10:47.8 [6425]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-18 15:10:47.9 [6425]:DynamicIPDataProvier:I:Active！
+2009-01-18 15:12:19.0 [6425]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-18 15:13:01.5 [6425]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-18 15:13:01.7 [6425]:DynamicIPDataProvier:I:Active！
+2009-01-18 15:14:53.9 [6425]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-18 15:31:23.5 [6514]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-18 15:31:23.6 [6514]:DynamicIPDataProvier:I:Active！
+2009-01-18 15:33:07.1 [6514]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-18 15:33:23.1 [6514]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-18 15:33:23.3 [6514]:DynamicIPDataProvier:I:Active！
+2009-01-18 15:34:54.7 [6514]:DynamicIPDataProvier:I:<MEM>已释放！

@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="18" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1028" x="0" y="25">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="136" y="28"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.cdt.ui.CElementCreationActionSet" itemType="typeToolBarContribution" x="154" y="28"/>
+<coolItem id="org.eclipse.cdt.ui.buildConfigActionSet" itemType="typeToolBarContribution" x="80" y="28"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="118" y="28"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="102" y="28"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="94" y="28"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="182" y="28"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.cdt.ui.editor.CEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1231766037396" focus="true" label="Workspace - C/C++">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="DektecTSBroadcastThread.cpp" partName="DektecTSBroadcastThread.cpp" path="/home/victor/workdisk/InfoDTVWorkspace/InfoDTVBroadcastServer/Multiplexer/Dektec/DektecTSBroadcastThread.cpp" title="DektecTSBroadcastThread.cpp" tooltip="InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.cpp"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" sorter="1">
+<filters>
+<filter element=".*" isEnabled="false"/>
+</filters>
+<selection>
+<element path="/InfoDTVMuxServer"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.cdt.make.ui.views.MakeView" partName="Make Targets"/>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.locationField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>&#x0A;<category IMemento.internal.id="Errors"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="93" org.eclipse.ui.ide.markerType="503" org.eclipse.ui.ide.pathField="183" org.eclipse.ui.ide.resourceField="138" org.eclipse.ui.ide.severityAndDescriptionField="450"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.cdt.debug.ui.executablesView" partName="Executables"/>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState>
+<isTrackingSelection value="false"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+<columnWidths org.eclipse.ui.ide.completionField="45" org.eclipse.ui.ide.descriptionField="453" org.eclipse.ui.ide.locationField="93" org.eclipse.ui.ide.markerType="436" org.eclipse.ui.ide.pathField="183" org.eclipse.ui.ide.priorityField="19" org.eclipse.ui.ide.resourceField="138"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.eclipse.cdt.ui.CPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.cdt.internal.ui.CPerspectiveFactory" id="org.eclipse.cdt.ui.CPerspective" label="C/C++"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.SearchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.CElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.make.ui.makeTargetActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.buildConfigActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.NavigationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.OpenActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.CodingActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.cdt.ui.CView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.cdt.make.ui.views.MakeView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.cdt.ui.includeBrowser"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.ConvertToMakeWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewCWizard2"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewCWizard1"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewHeaderFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewClassCreationWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.cdt.make.ui.views.MakeView"/>
+<view id="org.eclipse.ui.views.ResourceNavigator"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.ui.CView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@f92541" ratio="0.24950495" ratioLeft="252" ratioRight="758" relationship="2" relative="topLeft">
+<folder activePageID="org.eclipse.ui.views.ResourceNavigator" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="bottom" ratio="0.7354839" ratioLeft="570" ratioRight="205" relationship="4" relative="org.eclipse.ui.internal.ViewStack@f92541">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.cdt.ui.callHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.ui.typeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.6923631" ratioLeft="961" ratioRight="427" relationship="2" relative="org.eclipse.ui.internal.ViewStack@f92541">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.cdt.make.ui.views.MakeView" label="Make Targets"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2780269" ratioLeft="310" ratioRight="805" relationship="2" relative="org.eclipse.ui.internal.ViewStack@f92541"/>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.cdt.debug.ui.SignalsView"/>
+<show_view_action id="org.eclipse.debug.ui.RegisterView"/>
+<show_view_action id="org.eclipse.debug.ui.ModuleView"/>
+<show_view_action id="org.eclipse.debug.ui.MemoryView"/>
+<show_view_action id="org.eclipse.cdt.debug.ui.DisassemblyView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.cdt.debug.ui.executablesView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<perspective_action id="org.eclipse.cdt.ui.CPerspective"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.cdt.debug.ui.executablesView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7498203" ratioLeft="1043" ratioRight="348" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.74935734" ratioLeft="583" ratioRight="195" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.cdt.debug.ui.executablesView" label="Executables"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44939965" ratioLeft="262" ratioRight="321" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.7498203" ratioLeft="1043" ratioRight="348" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.cdt.debug.ui.DisassemblyView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.49964055" ratioLeft="695" ratioRight="696" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.SignalsView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.ModuleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVDynamic/Main/InfoDTVDynamic.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcast.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVDynamic/InfoDTVDynamicBuilder/InfoDTVFileBuilder/InfoDTVObject.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVCPUID/Main/InfoDTVCPUID.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/UDP/UDPTSBroadcast.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/UDP/UDPTSBroadcast.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcast.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/SoftMultiplexer.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/SoftMultiplexer.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcast.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcast.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Main/InfoDTVMuxServer.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Common/AntiDebug.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Interface/BroadcastInterface.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcast.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.cpp"/>
+</editors>
+<item historyLabel="DektecTSBroadcast.cpp" index="1">
+<position/>
+</item>
+<item historyLabel="InfoDTVDynamic.cpp" index="0">
+<position info="not_deleted" x="1130" y="0"/>
+</item>
+<item historyLabel="InfoDTVObject.cpp" index="2">
+<position info="not_deleted" x="3005" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcast.cpp" index="1">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="3">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.h" index="4">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="3">
+<position info="not_deleted" x="2191" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.h" index="4">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="3">
+<position info="not_deleted" x="2429" y="0"/>
+</item>
+<item historyLabel="InfoDTVCPUID.cpp" index="5">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="3">
+<position info="not_deleted" x="2429" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.h" index="4">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="3">
+<position info="not_deleted" x="2756" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcast.cpp" index="1">
+<position info="not_deleted" x="8239" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="3">
+<position info="not_deleted" x="4120" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.h" index="4">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="3">
+<position info="not_deleted" x="2124" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.h" index="4">
+<position info="not_deleted" x="8245" y="11"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="3">
+<position info="not_deleted" x="296" y="56"/>
+</item>
+<item historyLabel="DektecTSBroadcast.cpp" index="1">
+<position info="not_deleted" x="8239" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="3">
+<position info="not_deleted" x="194" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.h" index="4">
+<position info="not_deleted" x="7460" y="0"/>
+</item>
+<item historyLabel="UDPTSBroadcast.cpp" index="6">
+<position/>
+</item>
+<item historyLabel="UDPTSBroadcast.h" index="7">
+<position/>
+</item>
+<item historyLabel="UDPTSBroadcast.cpp" index="6">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.h" index="4">
+<position info="not_deleted" x="7474" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcast.h" index="8">
+<position/>
+</item>
+<item historyLabel="SoftMultiplexer.h" index="9">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcast.h" index="8">
+<position info="not_deleted" x="1386" y="0"/>
+</item>
+<item historyLabel="SoftMultiplexer.cpp" index="10">
+<position info="not_deleted" x="3924" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcast.cpp" index="11">
+<position info="not_deleted" x="8239" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="12">
+<position info="not_deleted" x="194" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcast.h" index="13">
+<position info="not_deleted" x="1386" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="12">
+<position info="not_deleted" x="194" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.h" index="14">
+<position info="not_deleted" x="7474" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="12">
+<position info="not_deleted" x="4456" y="0"/>
+</item>
+<item historyLabel="InfoDTVMuxServer.cpp" index="15">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.cpp" index="12">
+<position info="not_deleted" x="4456" y="0"/>
+</item>
+<item historyLabel="InfoDTVMuxServer.cpp" index="15">
+<position info="not_deleted" x="1241" y="0"/>
+</item>
+<item historyLabel="AntiDebug.h" index="16">
+<position/>
+</item>
+<item historyLabel="InfoDTVMuxServer.cpp" index="15">
+<position info="not_deleted" x="811" y="0"/>
+</item>
+<item historyLabel="BroadcastInterface.h" index="17">
+<position/>
+</item>
+<item historyLabel="InfoDTVMuxServer.cpp" index="15">
+<position info="not_deleted" x="840" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcast.h" index="18">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcastThread.h" index="19">
+<position/>
+</item>
+<item historyLabel="DektecTSBroadcast.h" index="18">
+<position/>
+</item>
+<item historyLabel="InfoDTVMuxServer.cpp" index="15">
+<position info="not_deleted" x="5101" y="0"/>
+</item>
+<item historyLabel="DektecTSBroadcast.h" index="18">
+<position/>
+</item>
+<item historyLabel="InfoDTVMuxServer.cpp" index="15">
+<position info="not_deleted" x="5101" y="0"/>
+</item>
+<item active="true" historyLabel="DektecTSBroadcastThread.cpp" index="20">
+<position info="not_deleted" x="4456" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="DektecTSBroadcast.h" tooltip="InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcast.h">
+<persistable path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcast.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="DektecTSBroadcastThread.h" tooltip="InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.h">
+<persistable path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="BroadcastInterface.h" tooltip="InfoDTVMuxServer/Interface/BroadcastInterface.h">
+<persistable path="/InfoDTVMuxServer/Interface/BroadcastInterface.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="AntiDebug.h" tooltip="InfoDTVMuxServer/Common/AntiDebug.h">
+<persistable path="/InfoDTVMuxServer/Common/AntiDebug.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="InfoDTVMuxServer.cpp" tooltip="InfoDTVMuxServer/Main/InfoDTVMuxServer.cpp">
+<persistable path="/InfoDTVMuxServer/Main/InfoDTVMuxServer.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="SoftMultiplexer.cpp" tooltip="InfoDTVMuxServer/Multiplexer/SoftMultiplexer.cpp">
+<persistable path="/InfoDTVMuxServer/Multiplexer/SoftMultiplexer.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="SoftMultiplexer.h" tooltip="InfoDTVMuxServer/Multiplexer/SoftMultiplexer.h">
+<persistable path="/InfoDTVMuxServer/Multiplexer/SoftMultiplexer.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="UDPTSBroadcast.h" tooltip="InfoDTVMuxServer/Multiplexer/UDP/UDPTSBroadcast.h">
+<persistable path="/InfoDTVMuxServer/Multiplexer/UDP/UDPTSBroadcast.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="UDPTSBroadcast.cpp" tooltip="InfoDTVMuxServer/Multiplexer/UDP/UDPTSBroadcast.cpp">
+<persistable path="/InfoDTVMuxServer/Multiplexer/UDP/UDPTSBroadcast.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="InfoDTVCPUID.cpp" tooltip="InfoDTVCPUID/Main/InfoDTVCPUID.cpp">
+<persistable path="/InfoDTVCPUID/Main/InfoDTVCPUID.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="DektecTSBroadcastThread.cpp" tooltip="InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.cpp">
+<persistable path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcastThread.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="DektecTSBroadcast.cpp" tooltip="InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcast.cpp">
+<persistable path="/InfoDTVMuxServer/Multiplexer/Dektec/DektecTSBroadcast.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="InfoDTVDynamic.cpp" tooltip="InfoDTVDynamic/Main/InfoDTVDynamic.cpp">
+<persistable path="/InfoDTVDynamic/Main/InfoDTVDynamic.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="InfoDTVFileProcesser.h" tooltip="InfoDTVDynamic/InfoDTVDynamicBuilder/InfoDTVFileBuilder/InfoDTVFileProcesser.h">
+<persistable path="/InfoDTVDynamic/InfoDTVDynamicBuilder/InfoDTVFileBuilder/InfoDTVFileProcesser.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="InfoDTVFileProcesser.cpp" tooltip="InfoDTVDynamic/InfoDTVDynamicBuilder/InfoDTVFileBuilder/InfoDTVFileProcesser.cpp">
+<persistable path="/InfoDTVDynamic/InfoDTVDynamicBuilder/InfoDTVFileBuilder/InfoDTVFileProcesser.cpp"/>
+</file>
+</mruList>
+</workbench>

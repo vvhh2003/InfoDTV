@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;InfoDTVPSIDynamic/ICESender&apos; to &apos;PSIDynamicICESender&apos;" description="Rename resource &apos;ICESender&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ICESender" name="PSIDynamicICESender" stamp="1236089751291" updateReferences="true"/>
+</session>

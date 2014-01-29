@@ -1,0 +1,35 @@
+<root name="EITTable">
+	<Part name="HEAD" type="EXT" includeSize="false">
+		<content name="PID" bits="12"/>
+		<content name="TABLE_ID" bits="8"/>
+		<content name="TABLE_EXT_ID" bits="16"/>
+		<content name="VERSION_NUMBER" BITS="5"/>
+		<content name="REF_LAST_SECTION_NUMBER_POS_BYTE" bits="16" value="4"/>
+	</Part>
+	<Part name="EIT_SECTION_HEAD" type="PSIHEADPART" includeSize="false">
+		<content name="transport_stream_id" bits="16"/>
+		<content name="original_network_id" bits="16"/>
+		<content name="segment_last_section_number" bits="8"/>
+		<content name="last_table_id" bits="8"/>
+	</Part>
+	<RepeatPart name="EIT_DATAS" type="PSI_ITEM_PART" itemName="EIT_DATA" includeSize="false">
+		<ITEM_EXT_VALUE name="Section_Service_ID" bits="16"/>
+		<content name="event_id" bits="16"/>
+		<content name="start_time_date" bits="16"/>
+		<content name="start_time_time" bits="24"/>
+		<content name="duration" bits="24"/>
+		<content name="runing_status" bits="3"/>
+		<content name="free_CA_mode" bits="1"/>
+		<OptionPart name="EIT_Descriptors" includeSize="true" sizeFieldBits="12">
+			<OptionItem name="short_event_descriptor">
+				<content name="descriptor_tag" bits="8" value="77"/>
+				<Part name="descriptor" includeSize="true" sizeFieldBits="8">
+					<content name="ISO_639_language_code" bits="24"/>
+					<strcontent name="event_name" includeSize="true" sizeFieldBits="8"/>
+					<strcontent name="event_desc" includeSize="true" sizeFieldBits="8"/>
+				</Part>
+			</OptionItem>
+		</OptionPart>
+	</RepeatPart>
+</root>
+

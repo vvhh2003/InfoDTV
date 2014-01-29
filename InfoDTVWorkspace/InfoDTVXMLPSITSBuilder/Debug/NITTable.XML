@@ -1,0 +1,59 @@
+﻿<root name="NITTable">
+	<Part name="HEAD" type="EXT" includeSize="false">
+		<content name="PID" bits="12"/>
+		<content name="TABLE_ID" bits="8"/>
+		<content name="TABLE_EXT_ID" bits="16"/>
+		<content name="VERSION_NUMBER" BITS="5"/>
+		<content name="IS_MPEG2" bits="1"/>
+	</Part>
+	<content name="Reserved1" bits="4"/>
+	<OptionPart name="NIT_Descriptors" includeSize="true" sizeFieldBits="12">
+		<OptionItem name="network_name_descriptor">
+			<content name="descriptor_tag" bits="8" value="64"/>
+			<strcontent name="network_name_description" includeSize="true" sizeFieldBits="8"/>
+		</OptionItem>
+		<OptionItem name="multilingual_network_name_descriptor">
+			<content name="descriptor_tag" bits="8" value="91"/>
+			<RepeatPart name="MNNDATAS" itemName="MNNDATA" includeSize="true" sizeFieldBits="8">
+				<content name="ISO_639_language_code" bits="24"/>
+				<strcontent name="network_name" includeSize="true" sizeFieldBits="8"/>
+			</RepeatPart>
+		</OptionItem>
+		<OptionItem name="linkage_descriptor">
+			<content name="descriptor_tag" bits="8" value="74"/>
+			<Part name="descriptor" includeSize="true" sizeFieldBits="8">
+				<content name="transport_stream_id" bits="16"/>
+				<content name="original_network_id" bits="16"/>
+				<content name="service_id" bits="16"/>
+				<content name="linkage_type" bits="8"/>
+				<strcontent name="private_data_byte" includeSize="false"/>
+			</Part>
+		</OptionItem>
+	</OptionPart>
+	<content name="Reserved2" bits="4"/>
+	<RepeatPart name="NITDATAS" itemName="NITDATA" includeSize="true" sizeFieldBits="12">
+		<content name="transport_stream_id" bits="16"/>
+		<content name="original_network_id" bits="16"/>
+		<content name="Reserved3" bits="4"/>
+		<OptionPart name="TS_Descripters" includeSize="true" sizeFieldBits="12">
+			<OptionItem name="cable_delivery_system_descriptor">
+				<content name="descriptor_tag" bits="8" value="68"/>
+				<Part name="descriptor" includeSize="true" sizeFieldBits="8">
+					<content name="frequency" bits="32"/>
+					<content name="DescriptorReserved1" bits="12"/>
+					<content name="FEC_outer" bits="4"/>
+					<content name="modulation" bits="8"/>
+					<content name="symbol_rate" bits="28"/>
+					<content name="FEC_inner" bits="4"/>
+				</Part>
+			</OptionItem>
+			<OptionItem name="service_list_descriptor">
+				<content name="descriptor_tag" bits="8" value="65"/>
+				<RepeatPart name="SERVICEDATAS" itemName="SERVICEDATA" includeSize="true" sizeFieldBits="8">
+					<content name="service_id" bits="16"/>
+					<content name="service_type" bits="8"/>
+				</RepeatPart>
+			</OptionItem>
+		</OptionPart>
+	</RepeatPart>
+</root>

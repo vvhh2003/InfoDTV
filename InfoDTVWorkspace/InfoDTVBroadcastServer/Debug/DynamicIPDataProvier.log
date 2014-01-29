@@ -1,0 +1,44 @@
+# Log file created/rotated Monday, 19 Jan 09 02:26:25 GMT
+2009-01-19 02:26:24.8 [7029]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-19 02:26:25.0 [7029]:DynamicIPDataProvier:I:Active！
+2009-01-19 02:43:38.6 [7029]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-19 02:43:45.2 [7029]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-19 02:43:45.5 [7029]:DynamicIPDataProvier:I:Active！
+2009-01-19 02:45:30.8 [7029]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-19 03:10:38.2 [7273]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-19 03:10:38.3 [7273]:DynamicIPDataProvier:I:Active！
+2009-01-19 03:11:59.7 [7273]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-19 03:18:46.7 [7349]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-19 03:18:46.8 [7349]:DynamicIPDataProvier:I:Active！
+2009-01-19 03:20:07.1 [7349]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-19 03:23:35.0 [7478]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-19 03:23:35.1 [7478]:DynamicIPDataProvier:I:Active！
+2009-01-19 03:25:58.7 [7478]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-19 03:26:21.7 [7478]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-19 03:26:21.7 [7478]:DynamicIPDataProvier:I:Active！
+2009-01-19 03:28:33.8 [7488]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-19 03:28:33.9 [7488]:DynamicIPDataProvier:I:Active！
+2009-01-19 03:30:19.8 [7488]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-19 03:30:33.1 [7488]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-19 03:30:33.2 [7488]:DynamicIPDataProvier:I:Active！
+2009-01-19 03:32:20.8 [7488]:DynamicIPDataProvier:I:<MEM>已释放！
+2009-01-19 06:02:35.7 [7543]:DynamicIPDataProvier:I:<MEM>构造！
+2009-01-19 06:02:35.8 [7543]:DynamicIPDataProvier:I:Active！
+2009-01-19 06:04:17.4 [7543]:DynamicIPDataProvier:I:开始重新配置！：
+<archive version="4.0" sub="VV">
+<ChannelName>TT2</ChannelName>
+<ChannelIPPort>10008</ChannelIPPort>
+<ChannelIP>172.16.26.16</ChannelIP>
+</archive>
+
+2009-01-19 06:04:17.7 [7543]:DynamicIPDataProvier:I:DeActive！
+2009-01-19 06:04:18.0 [7543]:DynamicIPDataProvier:I:Active！
+2009-01-19 06:07:27.6 [7543]:DynamicIPDataProvier:I:------------->缓冲结束！Event Set
+2009-01-19 06:07:31.5 [7543]:DynamicIPDataProvier:I:------------->缓冲结束！Event Set
+2009-01-19 06:07:35.8 [7543]:DynamicIPDataProvier:I:------------->缓冲结束！Event Set
+2009-01-19 06:07:40.1 [7543]:DynamicIPDataProvier:I:------------->缓冲结束！Event Set
+2009-01-19 06:07:44.6 [7543]:DynamicIPDataProvier:I:------------->缓冲结束！Event Set
+2009-01-19 06:07:48.7 [7543]:DynamicIPDataProvier:I:------------->缓冲结束！Event Set
+2009-01-19 06:07:51.9 [7543]:DynamicIPDataProvier:I:------------->缓冲结束！Event Set
+2009-01-19 06:07:54.6 [7543]:DynamicIPDataProvier:I:------------->缓冲结束！Event Set
+2009-01-19 06:07:58.2 [7543]:DynamicIPDataProvier:I:<MEM>已释放！

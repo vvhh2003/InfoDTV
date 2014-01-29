@@ -1,0 +1,39 @@
+#ifndef INFODTV_ICE
+#define INFODTV_ICE
+
+module InfoDTV
+{
+
+
+module Multiplexer
+{
+
+module Dynamic
+{
+
+module Provider
+
+{
+
+module ICE
+{
+
+sequence<byte> ByteSeq;
+
+interface BufferTransfer
+{
+    void Login();
+    void SendBuffer(string aServiceName,int aBufferLength,ByteSeq aSeq);
+    void SendBuffer2(string aServiceName,string aBufferGuid,int aSendIndex,int aTotalBufferLength,int aCurrentBufferLength,ByteSeq aSeq);
+};
+
+};
+
+};
+
+};
+
+};
+
+};
+#endif

@@ -1,0 +1,7 @@
+#Tue Jan 20 13:19:45 CST 2009
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.cdt.ui.presentation
+RUN_IN_BACKGROUND=true
+eclipse.preferences.version=1
+org.eclipse.debug.ui.consoleFont=1|Sans|10.0|0|GTK|1|;
+ENABLED_DECORATORS=org.eclipse.cdt.ui.indexedFiles\:false,org.eclipse.mylyn.context.ui.decorator.interest\:true,org.eclipse.mylyn.tasks.ui.decorators.task\:true,org.eclipse.mylyn.team.ui.changeset.decorator\:true,org.eclipse.team.cvs.ui.decorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,
+ColorsAndFontsPreferencePage.selectedElement=Torg.eclipse.ui.presentation.default

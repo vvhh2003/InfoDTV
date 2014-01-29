@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;InfoDTVDynamic/Debug/TTT.config&apos; to &apos;InfoDTVDynamic.config&apos;" description="Rename resource &apos;TTT.config&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Debug/TTT.config" name="InfoDTVDynamic.config" stamp="1238304622426" updateReferences="true"/>
+</session>
